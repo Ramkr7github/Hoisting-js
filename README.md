@@ -4,6 +4,8 @@
 
 Hoisting in JavaScript is a behavior where variable and function declarations are moved to the top of their containing scope during the compilation phase, before the code is executed. This means that regardless of where variables and functions are declared within a scope, they are effectively "hoisted" to the top of their scope.
 
+![alt text](image.png)
+
 > what is the uses of hoisting jn javascript
 
 - **Flexibility in Coding**: Hoisting allows developers to write code in a more natural flow, without worrying about the order of function and variable declarations within a scope. This can make the code easier to read and understand.
