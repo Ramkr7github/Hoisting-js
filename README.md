@@ -6,6 +6,8 @@ Hoisting in JavaScript is a behavior where variable and function declarations ar
 
 ![alt text](image.png)
 
+![alt text](image-1.png)
+
 > what is the uses of hoisting jn javascript
 
 - **Flexibility in Coding**: Hoisting allows developers to write code in a more natural flow, without worrying about the order of function and variable declarations within a scope. This can make the code easier to read and understand.
